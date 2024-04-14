@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome to My React App</h1>
-      <p>Learn Dockerizing with this awesome React app!</p>
+      <p>Learning Dockerizing with this React app!</p>
     </div>
   );
 }
